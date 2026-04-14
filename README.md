@@ -1,8 +1,6 @@
-# kazerun-gwl-ensemble-forecast1
-Code for groundwater level forecasting in Kazerun aquifer using HBARST, SARIMA, and ensemble models
 # Groundwater Level Forecasting in Kazerun Aquifer – Adaptive Ensemble Framework
 
-This repository contains all R and Python scripts for reproducing the results presented in the paper:
+This repository contains all R and Python scripts for reproducing the results presented in the paper:  
 *"Groundwater Level Forecasting in a Complex Semi‑Arid Aquifer Using an Adaptive Ensemble Framework"* (Earth Science Informatics, 2026)
 
 ## Contents
